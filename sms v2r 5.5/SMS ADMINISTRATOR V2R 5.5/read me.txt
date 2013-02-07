@@ -1,0 +1,31 @@
+All rights resreved.
+
+If Autorun is not possible,please read agreement.txt
+and it is also found in Mustread folder
+
+To install this software please read----How to install----from Must read folder.
+
+
+Note:
+
+Install admin v2r from admin v2r sms 5.5 in only one system.
+
+This should be secure and the updates in password ,product,address ect.. can be reflected on the client systems-
+
+The pro folder should be transferred to client systems either through LAN or any other removable storage device.
+
+
+
+freev1 is the free open source draft software.
+copy the product file after working on admin folder
+and paste it into client folder.
+
+All the above agreements are applicable here too.
+
+To get the help file please register your self in www.profitzsolutions.com
+
+Thank you.
+
+by
+sathanandh.v
+profitz solution corp.

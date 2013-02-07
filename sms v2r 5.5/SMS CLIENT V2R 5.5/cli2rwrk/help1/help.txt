@@ -1,0 +1,9 @@
+key board shortcuts-
+alt-m modify 
+alt-b bill
+alt-f file
+alt-a about
+alt-h  help
+alt-s settime
+alt-x extra
+alt-e exit

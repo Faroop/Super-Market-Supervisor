@@ -1,0 +1,31 @@
+
+This is a way to use this program in Linux or Windows Vista/7 ect.
+Linux should have "wine" installed to make things simpler.
+
+Dosbox command -Alt+Enter for full screen 
+
+Assuming that the installer installed in the default folder
+
+TO open admin
+
+mount c c:\admin\adminv2r
+c:\ dir
+adminv2r
+
+
+To open Client
+
+mount c c:\client\clienv2r
+c:\ dir
+clienv2r
+
+If An Error appears that c: is already mounted
+
+try changing "mount c ...."  to "mount d ...." or "mount e ..."
+
+Eg.
+mount d c:\client\clienv2r
+d:\ dir
+clienv2r
+
+
